@@ -1,0 +1,35 @@
+
+    body {
+        background-color: #000000; /* Black background */
+        color: #ffffff; /* White text */
+    }
+    .swagger-ui .topbar {
+        background-color: #b00000; /* Dark red for top bar */
+    }
+    .swagger-ui .topbar a {
+        color: white;
+    }
+    .swagger-ui .info {
+        background-color: #1a1a1a; /* Dark gray for API info section */
+        color: #ffffff; /* White text for API info */
+    }
+    .swagger-ui .btn {
+        background-color: #b00000; /* Red buttons */
+        border-color: #b00000;
+        color: #ffffff;
+    }
+    .swagger-ui .btn:hover {
+        background-color: #ff0000; /* Bright red on hover */
+        border-color: #ff0000;
+    }
+    .swagger-ui .opblock {
+        background-color: #1a1a1a; /* Dark gray operation blocks */
+    }
+    .swagger-ui .opblock-summary {
+        background-color: #b00000; /* Red summary headers */
+        color: #ffffff;
+    }
+    .swagger-ui .opblock-summary:hover {
+        background-color: #ff0000; /* Bright red on hover */
+    }
+    
